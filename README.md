@@ -1,56 +1,15 @@
-# Van-Lian3
-<h1 align="center">👋 Hi, I’m Van </h1>
+# 💫 About Me:
+I’m an IT Analyst building toward System Administration and Cloud Engineering, with hands-on experience supporting enterprise environments across nearly 200 healthcare facilities. My background includes Windows systems administration, Active Directory and Microsoft Entra ID management, networking fundamentals (TCP/IP, DNS, DHCP, VLANs), and troubleshooting infrastructure issues in high-availability environments.<br><br>I hold a Bachelor’s degree in Information Technology and have foundational knowledge of Java and object-oriented programming, which strengthens my analytical and systems-thinking approach. I’m currently deepening my expertise in Linux, AWS, and automation to bridge traditional infrastructure with modern cloud architectures.<br><br>🔧 Current Focus<br><br>Linux systems administration<br><br>AWS architecture and core services<br><br>Infrastructure as Code (Terraform / CloudFormation)<br><br>Python & Bash for automation<br><br>Networking and cloud security fundamentals<br><br>🎯 Career Direction<br><br>Transitioning into System Administration and Cloud Engineering roles where I can design, automate, and support scalable, resilient infrastructure.
 
-I’m an IT Analyst building toward System Administration and Cloud Engineering, with hands-on experience supporting enterprise environments across nearly 200 healthcare facilities. My background includes Windows systems administration, Active Directory and Microsoft Entra ID management, networking fundamentals (TCP/IP, DNS, DHCP, VLANs), and troubleshooting infrastructure issues in high-availability environments.
 
-I hold a Bachelor’s degree in Information Technology and have foundational knowledge of Java and object-oriented programming, which strengthens my analytical and systems-thinking approach. I’m currently deepening my expertise in Linux, AWS, and automation to bridge traditional infrastructure with modern cloud architectures.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Van-LianCLoud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Van-LianCLoud&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Van-LianCLoud&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🔧 Current Focus
+---
+[![](https://visitcount.itsvg.in/api?id=Van-LianCLoud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Linux systems administration
-
-AWS architecture and core services
-
-Infrastructure as Code (Terraform / CloudFormation)
-
-Python & Bash for automation
-
-Networking and cloud security fundamentals
-
-🎯 Career Direction
-
-Transitioning into System Administration and Cloud Engineering roles where I can design, automate, and support scalable, resilient infrastructure.
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
